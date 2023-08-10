@@ -1,5 +1,5 @@
-it was working fine  need to add a website link asap.
-need to hide Apikey as well.
+[Screenshot](flimfusion.jpg)
+![Live site](https://aneal07.github.io/Flimfusion/)
 
 # Getting Started with Create React App
 
