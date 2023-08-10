@@ -1,6 +1,6 @@
-#![Screenshot](flimfusion.jpg)
+# ![Screenshot](flimfusion.jpg)
 
-##[Live site](https://aneal07.github.io/Flimfusion/)
+## [Live site](https://aneal07.github.io/Flimfusion/)
 
 # Getting Started with Create React App
 
