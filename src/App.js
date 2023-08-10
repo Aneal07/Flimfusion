@@ -26,7 +26,7 @@ const App = () => {
     }, []);
   
     const searchMovies = async (title) => {
-      const response = await fetch(`http://www.omdbapi.com?apikey=${process.env.REACT_APP_API_KEY}&s=${title}`);
+      const response = await fetch(`https://www.omdbapi.com?apikey=${process.env.REACT_APP_API_KEY}&s=${title}`);
       const data = await response.json();
   
       setMovies(data.Search);
