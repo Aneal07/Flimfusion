@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Flimfusion/static/css/main.64d7c57d.css",
-    "main.js": "/Flimfusion/static/js/main.8766e83b.js",
+    "main.js": "/Flimfusion/static/js/main.d3abf5e5.js",
     "index.html": "/Flimfusion/index.html",
     "static/media/search.svg": "/Flimfusion/static/media/search.85548e4d6d235088a0d3892fed2b6f29.svg",
     "main.64d7c57d.css.map": "/Flimfusion/static/css/main.64d7c57d.css.map",
-    "main.8766e83b.js.map": "/Flimfusion/static/js/main.8766e83b.js.map"
+    "main.d3abf5e5.js.map": "/Flimfusion/static/js/main.d3abf5e5.js.map"
   },
   "entrypoints": [
     "static/css/main.64d7c57d.css",
-    "static/js/main.8766e83b.js"
+    "static/js/main.d3abf5e5.js"
   ]
 }
