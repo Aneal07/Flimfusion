@@ -7,7 +7,7 @@ import SearchIcon from './search.svg';
 
 
 
-const API_URL = 'http://www.omdbapi.com?apikey=7def3577'
+//const API_URL = 'http://www.omdbapi.com?apikey=7def3577'
 
 const movie1 = {
     "Title": "Superman, Spiderman or Batman",
@@ -26,7 +26,7 @@ const App = () => {
     }, []);
   
     const searchMovies = async (title) => {
-      const response = await fetch(`${API_URL}&s=${title}`);
+      const response = await fetch(`http://www.omdbapi.com?apikey=${process.env.REACT_APP_API_KEY}&s=${title}`);
       const data = await response.json();
   
       setMovies(data.Search);
