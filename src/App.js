@@ -7,7 +7,7 @@ import SearchIcon from './search.svg';
 
 
 
-//const API_URL = 'http://www.omdbapi.com?apikey=7def3577'
+
 
 const movie1 = {
     "Title": "Superman, Spiderman or Batman",
